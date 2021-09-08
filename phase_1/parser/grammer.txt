@@ -1,0 +1,15 @@
+STL = ST STL .
+STL = # .
+ST = FST .
+ST = WST .
+ST = RUST .
+ST = IFST .
+ST = INCLUDEST .
+ST = DECLFLOAT .
+FST = for id in range ( num , num ) do { STL } .
+WST = while ( num ) do { STL } .
+RUST = repeat { STL } until  ( num ) ; .
+IFST = if ( num ) do { STL } else if ( num ) do { STL } else { STL } .
+INCLUDEST = include .
+DECLFLOAT = float id := real ; .
+@

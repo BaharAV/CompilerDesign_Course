@@ -1,0 +1,9 @@
+#include <std.i>
+for i in range ( 0 , 10 ) do { while ( 12 ) do { } }
+repeat { } until ( 13 ) ;
+/*salam
+khoobi*/
+"""salam"""
+if ( 12 ) do { } else if ( 14 ) do { } else { }
+float a := 12.4 ;
+$

@@ -1,0 +1,18 @@
+BE = BT BEE .
+BEE = || BT BEE .
+BEE = # .
+BT = BF BTT .
+BTT = && BF BTT .
+BTT = # .
+BF = id .
+BF = num .
+BF = ( BE ) .
+BF = id [ BE ] .
+BF = AST .
+AST = id := BE < = BE .
+AST = id := BE < BE .
+AST = id := BE > = BE .
+AST = id := BE > BE .
+AST = id := BE = BE .
+AST = id := BE ! = BE .
+~

@@ -1,0 +1,45 @@
+#include <std.io>
+int fff ;
+int i , j ;
+switch ( fff ) {
+case 1 : { for j in range ( 0 , 10 ) do { } break ; }
+case 2 : { int oo ; oo := 4 ; break ; }
+default : {  int kik , lik := 5 ;  } }
+int a , b := 3 , m ;
+int v , x [ 43 ] ;
+a := 4 ;
+switch ( a ) {
+case 12 : { for j in range ( 0 , 10 ) do { } break ; }
+case 13 : { int yyy ; yyy := 4 ; break ; }
+case 14 : { break ; }
+default : { for j in range ( 0 , 10 ) do { } }
+}
+char ab ( int x , float y ) ;
+int * ss , bb , * bahar := l , kiana ;
+char ab ( int x , float y ) { int l , p := 5 ; x := 3 ; char ff ; return f ; } ;
+for j in range ( 0 , 10 ) do while ( a && b ` ) do { a := 67 ; }
+for i in range ( 0 , 10 ) do { while ( a || b ` ) do { } }
+for j in range ( 0 , 10 ) do while ( a ` ) do { } while (  b [ 12 ] ` ) do { }
+repeat for j in range ( 0 , 10 ) do while ( a || ( b || ( c || x && c ) && f ) && x ` ) do { } until ( tb := a [ 13 ] < c [ 12 ] ` ) ;
+float b ( int c ) { int cd ; c := 4 ; int m ; return s ; } ;
+float q , w ;
+int a ( int b , float g ) { int i , j ; for i in range ( 0 , 10 ) do { while ( a && b &&  ( c && d ) || d ` ) do { } }
+for j in range ( 0 , 10 ) do while ( tb := 12 = ( a ) || ( b && n ) ` ) do { } while ( a && b || v ` ) do { }
+repeat { for j in range ( 0 , 10 ) do { } } until ( tb := a [ 13 ] ! = 12 && b ` ) ;
+return a ; } ;
+int g , id := 4 ;
+g := 8 ;
+a := 13 ;
+for j in range ( 0 , 10 ) do switch ( a ) { case 12 : { for j in range ( 0 , 10 ) do { } break ; } case 13 : { int zz ; g := 5 ; break ; } default : {  while ( a && b ` ) do { }  } }
+switch ( a ) { case 12 : { for j in range ( 0 , 10 ) do { } break ; } case 13 : { int xxxx ; xxxx := 4 ; break ; } default : {  int cv , dv := 5 ;  } }
+zz := 4 ;
+if ( tb := i && b < = 4 ` ) do { switch ( m ) { case 12 : { for j in range ( 0 , 10 ) do { } break ; } case 13 : { int mmm ; kik := 4 ; break ; } default : {  int pol , mil := 5 ;  } } }
+else if ( tb := i || b  ! = ( ( 4 ) && ( b ) ) ` ) do { a := 5 ; }
+else if ( a || 12 ` ) do { b := 5 ; }
+else do {
+m := 4 ;
+v := 4.5 ;
+char xx , r , e , c ;
+x [ 1 ] := 4 ;
+}
+$

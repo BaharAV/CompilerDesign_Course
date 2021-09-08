@@ -1,0 +1,21 @@
+#Include <io.h>
+for i in range(0,10)do
+printf("salam\nkhobi\t");
+while a<10 do
+{
+ int a[34];
+}
+repeat{
+    printf("salam");
+}
+if(a<20 || b<10)do
+    printf("salam");
+else if(a>10)do
+    printf("khoobi?\n");
+else{
+    int a = 10;
+    float a[2]:={1,2,3};
+}
+int func(int a){
+    return 2;
+}$
